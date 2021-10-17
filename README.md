@@ -1,2 +1,2 @@
-# FINTECH-MACHINE-LEARNING
+# Credit_Risk_Analysis
 Challenge 17 
