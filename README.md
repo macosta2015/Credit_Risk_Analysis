@@ -5,6 +5,10 @@ Challenge 17
 ### Overview of the analysis:
 We are going to use different types of machine learning models. We are going to use three different type of machine learning algorithms to see which one is better to predict risk. 
 
+1. Oversampling RandomOverSamplet
+2. SMOTE
+3. Undersampling ClusterCentroids
+
 It is important to note that we have been learning that we have supervised and unsupervised learning. 
 
 ### Important General information
