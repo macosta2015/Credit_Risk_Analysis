@@ -28,3 +28,4 @@ With machine learning we are able to get a sample data to keep and compare it ag
 
 
 ### Summary:
+After testing our supervused machine learning models we are able to know which one was the best by having our traget columns closest to one. Please remember that the ratio needs to be between 0 and 1, (A .99 would be a high accuracy). Again, in order to know which was the best model we need to take a find the balanced accuracy from the different models. 
