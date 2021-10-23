@@ -5,9 +5,14 @@ Challenge 17
 ### Overview of the analysis:
 We are going to use different types of machine learning models. We are going to use three different type of machine learning algorithms to see which one is better to predict risk. 
 
+ONE AND TWO
 1. Oversampling RandomOverSampler
 2. SMOTE
 3. Undersampling ClusterCentroids
+
+THREE
+1. We now are going to train and compare BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk, both models will then be evaluated.
+
 
 It is important to note that we have been learning that we have supervised and unsupervised learning. 
 
