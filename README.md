@@ -26,6 +26,27 @@ With machine learning we are able to get a sample data to keep and compare it ag
 
 ### Results: 
 
+#### Balanced Random Forest Classifier
+
+<img width="726" alt="Screen Shot 2021-10-23 at 6 18 46 PM" src="https://user-images.githubusercontent.com/25726054/138573300-0e52d71e-7c4b-4040-855b-38c2fbba9ea1.png">
+
+#### Balanced Random Forest Classifier
+<img width="648" alt="Screen Shot 2021-10-23 at 6 19 01 PM" src="https://user-images.githubusercontent.com/25726054/138573306-8843cba6-40dc-4770-8621-7a4f2b394c95.png">
+
+
+#### Naive Random Oversampling
+<img width="644" alt="Screen Shot 2021-10-23 at 6 19 54 PM" src="https://user-images.githubusercontent.com/25726054/138573322-9df82648-ef58-4ec4-ba27-0e6afad39215.png">
+
+
+#### SMOTE Oversampling
+<img width="651" alt="Screen Shot 2021-10-23 at 6 20 16 PM" src="https://user-images.githubusercontent.com/25726054/138573327-461c202b-34a1-4b0b-9bac-03e7d7a82faf.png">
+
+#### Undersampling imbalanced classification report
+<img width="644" alt="Screen Shot 2021-10-23 at 6 20 36 PM" src="https://user-images.githubusercontent.com/25726054/138573336-ea33117c-c5a9-4f0f-be00-23c71d1982c0.png">
+
+#### SMOTEEN
+<img width="646" alt="Screen Shot 2021-10-23 at 6 20 59 PM" src="https://user-images.githubusercontent.com/25726054/138573343-152eaa6c-0e94-4c8e-b6fb-216ab20fb96d.png">
+
 
 ### Summary:
 After testing our supervused machine learning models we are able to know which one was the best by having our traget columns closest to one. Please remember that the ratio needs to be between 0 and 1, (A .99 would be a high accuracy). Again, in order to know which was the best model we need to take a find the balanced accuracy from the different models. 
