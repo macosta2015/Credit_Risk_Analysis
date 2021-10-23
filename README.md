@@ -52,4 +52,5 @@ With machine learning we are able to get a sample data to keep and compare it ag
 After testing our supervused machine learning models we are able to know which one was the best by having our traget columns closest to one. Please remember that the ratio needs to be between 0 and 1, (A .99 would be a high accuracy). Again, in order to know which was the best model we need to take a find the balanced accuracy from the different models. 
 
 Our supervised training shows that the best module to use is the Easy Ensemble AdaBoost Classifier with an accuracy of 0.925427358175101
+
 <img width="646" alt="Screen Shot 2021-10-23 at 6 24 10 PM" src="https://user-images.githubusercontent.com/25726054/138573400-c225e433-664b-4664-b52e-be681bfe470f.png">
